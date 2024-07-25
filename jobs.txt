@@ -11,7 +11,7 @@ Coinbase
 Stripe (Full-stack)
 BP
 GitHub
-G-research
+G-research (August)
 Two Sigma
 Snapchat
 BAM
